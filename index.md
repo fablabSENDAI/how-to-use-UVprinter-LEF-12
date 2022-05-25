@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br><br>
 
 RolandDG製UVプリンタ **VersaUV LEF-12**の使用マニュアルです。<br>
 UVプリンタは、紫外線によって固まるインクを吹付け、そこにUV（紫外線）ライトを当てることで、<br>
